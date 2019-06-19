@@ -1,0 +1,19 @@
+
+body{
+  background-color:#ffeafe;
+}
+h2{
+  color: blue;
+}
+h3 {
+color: brown;
+}
+
+hr{
+border-style:none;
+//height: 1px;
+border-top-style:dotted;
+border-color: brown;
+border-width:medium;
+width: 70%;
+}
